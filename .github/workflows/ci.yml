@@ -9,4 +9,3 @@ jobs:
     with:
       component: catalogue
       appType: nodejs
-
